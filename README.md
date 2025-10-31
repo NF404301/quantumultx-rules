@@ -1,0 +1,2 @@
+# quantumultx-rules
+redirect URL
